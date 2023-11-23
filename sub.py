@@ -5,7 +5,6 @@ import sklearn.utils
 import tensorflow as tf
 from scipy.special import softmax as sfm
 import time
-plt.rcParams['image.cmap'] = 'Greys'
 
 from tensorflow.keras.utils import to_categorical
 
