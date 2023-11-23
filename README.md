@@ -7,3 +7,5 @@ It is good practice to write your modification using 1.0.0, ect...
 Modification version 1.0.1
 
 Testing pulling this code on pycharm
+
+Mod version 1.0.2, testing a new branch on pycharm
